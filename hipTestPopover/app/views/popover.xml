@@ -1,0 +1,12 @@
+<Alloy>
+	<Popover backgroundColor="green">
+	    <ContentView>
+	        <NavigationWindow height='260' width="300">
+	            <Window title="Select..">
+	                <RightNavButton onClick="showAlert" title="Test"/>
+	                <Label> It's not a good point</Label>
+	            </Window>
+	        </NavigationWindow>
+	    </ContentView>
+	</Popover>
+</Alloy>
